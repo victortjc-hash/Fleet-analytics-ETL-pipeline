@@ -20,7 +20,8 @@ Generated fleet GPS CSV data
 → Queried curated data with Athena
 → Built QuickSight dashboard
 
+I built a serverless ETL pipeline for fleet GPS event data using AWS S3, Glue, Athena, and QuickSight. Raw CSV files were uploaded to S3, crawled into the Glue Data Catalog, transformed using a Glue Spark ETL job, and written back to S3 as partitioned Parquet files. I then queried the curated dataset with Athena and visualized operational KPIs in QuickSight, including speeding events, low-fuel risk, average speed, and vehicle utilization.
+
 
 <img width="1585" height="745" alt="Screenshot 2026-06-04 at 4 59 03 PM" src="https://github.com/user-attachments/assets/51cfcef9-0772-4855-a613-11a12be6594a" />
-<img width="1470" height="956" alt="Screenshot 2026-06-04 at 4 58 50 PM (2)" src="https://github.com/user-attachments/assets/9ffe9a9b-d060-4c74-b671-38f2bc7a24f7" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-04 at 4 58 50 PM" src="https://github.com/user-attachments/assets/6c28655e-6a33-43ad-964c-813ddcf904da" />
