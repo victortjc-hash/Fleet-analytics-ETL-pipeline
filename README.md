@@ -1,5 +1,4 @@
-<img width="1676" height="814" alt="Screenshot 2026-06-04 at 5 09 07 PM" src="https://github.com/user-attachments/assets/604f8c5d-92fe-4a7a-83a3-298c062cc366" />
-<img width="1768" height="933" alt="Screenshot 2026-06-04 at 5 08 42 PM" src="https://github.com/user-attachments/assets/9d83155e-18e8-41d7-8898-800202a40011" />
+
 # Fleet-analytics-ETL-pipeline
 
 
@@ -27,3 +26,5 @@ I built a serverless ETL pipeline for fleet GPS event data using AWS S3, Glue, A
 
 <img width="1585" height="745" alt="Screenshot 2026-06-04 at 4 59 03 PM" src="https://github.com/user-attachments/assets/51cfcef9-0772-4855-a613-11a12be6594a" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-04 at 4 58 50 PM" src="https://github.com/user-attachments/assets/6c28655e-6a33-43ad-964c-813ddcf904da" />
+<img width="1676" height="814" alt="Screenshot 2026-06-04 at 5 09 07 PM" src="https://github.com/user-attachments/assets/604f8c5d-92fe-4a7a-83a3-298c062cc366" />
+<img width="1768" height="933" alt="Screenshot 2026-06-04 at 5 08 42 PM" src="https://github.com/user-attachments/assets/9d83155e-18e8-41d7-8898-800202a40011" />
