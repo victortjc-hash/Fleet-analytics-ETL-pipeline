@@ -1,3 +1,5 @@
+<img width="1676" height="814" alt="Screenshot 2026-06-04 at 5 09 07 PM" src="https://github.com/user-attachments/assets/604f8c5d-92fe-4a7a-83a3-298c062cc366" />
+<img width="1768" height="933" alt="Screenshot 2026-06-04 at 5 08 42 PM" src="https://github.com/user-attachments/assets/9d83155e-18e8-41d7-8898-800202a40011" />
 # Fleet-analytics-ETL-pipeline
 
 
